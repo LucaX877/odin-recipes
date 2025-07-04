@@ -1,5 +1,11 @@
 # odin-recipes
 Recipes website to practice HTML
+<h2>Reflection</h2>
+<ul>
+    <li>Learned how to create headings and paragraphs</li>
+    <li>Learned how to insert links</li>
+    <li>Learned how to insert images</li>
+</ul>
 <h2>Attributions</h2>
 Photo:“<a href="https://www.flickr.com/photos/eskimo_jo/12755552705" title="Chicken Alfredo" target="_blank" rel="noopener noreferrer">Chicken Alfredo</a>” by <a href="https://www.flickr.com/photos/eskimo_jo/" target="_blank" rel="noopener noreferrer">Viv Lynch</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en" target="_blank" rel="license noopener noreferrer">CC BY-NC-ND 2.0</a>
 <br>
